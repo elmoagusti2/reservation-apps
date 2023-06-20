@@ -1,7 +1,7 @@
 # reservation_apps
 
 A new Flutter project.
-![](https://github.com/reservation-apps/assets/public/mockup1.gif)
+![](https://github.com/elmoagusti2/reservation-apps/blob/main/assets/public/mockup1.gif)
 
 ## Getting Started
 
