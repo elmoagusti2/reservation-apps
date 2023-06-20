@@ -1,10 +1,10 @@
-##reservation_apps
+## reservation_apps
 
-#Second Flutter project by Elmo A.
+# Second Flutter project by Elmo A.
 
 ![](https://github.com/elmoagusti2/reservation-apps/blob/main/assets/public/mockup1.gif)
 
-#Packages Used
+# Packages Used
 - Firebase for Login/Register and Firestore Database
 - Excel Packages for Export data to .xlsx format
 - State Management getX
