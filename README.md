@@ -13,15 +13,18 @@
 - path_provider for access document/download android/ios device 
 - Google Navigation Bar, etc.
 
-## Getting Started
+# Feature
+- Register/Login
+- Role User and Admin
+- Reservation field pick date and time
+- Confirmation payment via whatsapp
+- Admin Update Status payment
+- Admin gives access
+- Admin report payment
+- Admin Download document .xlsx
 
-This project is a starting point for a Flutter application.
+![](https://github.com/elmoagusti2/reservation-apps/blob/main/assets/public/mockup2.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Database
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
